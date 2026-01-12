@@ -1,0 +1,7 @@
+{
+  "name": "OPR - SMA Al Ehya Al Karim",
+  "description": "Sistem Laporan Program Satu Muka (OPR) yang futuristik dengan bantuan AI untuk Sekolah Menengah Agama Al Ehya Al Karim.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
